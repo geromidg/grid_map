@@ -1,0 +1,137 @@
+[
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/test_grid_map_core.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/test_grid_map_core.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/test_grid_map_core.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/GridMapMathTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/GridMapMathTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/GridMapMathTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/GridMapTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/GridMapTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/GridMapTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/GridMapIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/GridMapIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/GridMapIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/LineIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/LineIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/LineIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/EllipseIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/EllipseIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/EllipseIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/SubmapIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/SubmapIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/SubmapIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/PolygonIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/PolygonIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/PolygonIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/PolygonTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/PolygonTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/PolygonTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/EigenPluginsTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/EigenPluginsTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/EigenPluginsTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/SpiralIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/SpiralIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/SpiralIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g   -o CMakeFiles/grid_map_core-test.dir/test/SlidingWindowIteratorTest.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/test/SlidingWindowIteratorTest.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/test/SlidingWindowIteratorTest.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/GridMap.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/GridMap.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/GridMap.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/GridMapMath.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/GridMapMath.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/GridMapMath.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/SubmapGeometry.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/SubmapGeometry.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/SubmapGeometry.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/BufferRegion.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/BufferRegion.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/BufferRegion.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/Polygon.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/Polygon.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/Polygon.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/GridMapIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/GridMapIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/GridMapIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/SubmapIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/SubmapIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/SubmapIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/CircleIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/CircleIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/CircleIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/EllipseIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/EllipseIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/EllipseIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/SpiralIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/SpiralIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/SpiralIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/PolygonIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/PolygonIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/PolygonIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/LineIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/LineIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/LineIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build",
+  "command": "/usr/bin/c++   -DEIGEN_DENSEBASE_PLUGIN=\\\"grid_map_core/eigen_plugins/DenseBasePlugin.hpp\\\" -DEIGEN_FUNCTORS_PLUGIN=\\\"grid_map_core/eigen_plugins/FunctorsPlugin.hpp\\\" -Dgrid_map_core_EXPORTS -I/home/dimi/workspace/rock/slam/grid_map/include -I/usr/include/eigen3  -std=c++11  -pthread -g -fPIC   -o CMakeFiles/grid_map_core.dir/src/iterators/SlidingWindowIterator.cpp.o -c /home/dimi/workspace/rock/slam/grid_map/src/iterators/SlidingWindowIterator.cpp",
+  "file": "/home/dimi/workspace/rock/slam/grid_map/src/iterators/SlidingWindowIterator.cpp"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build/gtest",
+  "command": "/usr/bin/c++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest  -std=c++11  -g -fPIC   -std=c++11  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/gtest/src/gtest-all.cc",
+  "file": "/usr/src/gtest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/dimi/workspace/rock/slam/grid_map/build/gtest",
+  "command": "/usr/bin/c++   -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/gtest/include -I/usr/src/gtest  -std=c++11  -g -fPIC   -std=c++11  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/gtest/src/gtest_main.cc",
+  "file": "/usr/src/gtest/src/gtest_main.cc"
+}
+]
